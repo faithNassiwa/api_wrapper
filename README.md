@@ -44,5 +44,5 @@ Simple Restful APIs:-
 * Uploading the package on PYPI
 
 ## Contribute
-To contribute to the development of our package, fork the main repo https://github.com/yixuan-feng/API-Wrapper/fork and send a 
+To contribute to the development of our package, fork the main repo https://github.com/faithNassiwa/api_wrapper/fork and send a 
 pull request of any added functionalities or enhancements for our team to review and merge accordingly. 
